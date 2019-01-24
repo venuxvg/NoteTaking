@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "760079767685",
+    "firebase_url": "https://bvc-rjy.firebaseio.com",
+    "project_id": "bvc-rjy",
+    "storage_bucket": "bvc-rjy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760079767685:android:8d3fa2cd36901571",
+        "android_client_info": {
+          "package_name": "com.example.rdbfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760079767685-js8iqkekfp0cqn32nlks1ol0h3up91vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzedCMu6TZCMwjdoB_a6R7Le-oYpb4s7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
